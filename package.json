@@ -19,7 +19,8 @@
     "qs": "~0.5.2",
     "faye-websocket": "~0.4.3",
     "noptify": "latest",
-    "debug": "~0.7.0"
+    "debug": "~0.7.0",
+    "lodash": "^2.4.1"
   },
   "devDependencies": {
     "mocha": "~1.7.1",
